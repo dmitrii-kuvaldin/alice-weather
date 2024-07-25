@@ -1,0 +1,129 @@
+.input{
+    margin-top: 120px;
+    color: white;
+    border: 1px solid #ffffff;
+    height: 48px;
+    width: 710px;
+    border-radius: 50px;
+    margin-right: 14px;
+    text-indent: 10px;
+    background-color: #5936B4;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: transparent;
+}
+.buttonSearch{
+    color: white;
+    font-size: 18px;
+    background: linear-gradient(0deg, #3678B4, #4A319F),
+    linear-gradient(270.38deg, #362A84 0.23%, #5936B4 94.2%),
+    linear-gradient(0deg, #3678B4, #4A319F);
+    width: Hug (146px)px;
+    height: Hug (48px)px;
+    padding: 12px 40px 12px 40px;
+    gap: 14px;
+    border-radius: 50px;
+    opacity: 0px;
+
+}
+.townForm{
+    background: none;
+    top: 200px;
+    left: 605px;
+}
+.container{
+    padding: 5px;
+    display: flex;
+    gap: 70px;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 120px;
+    border-radius: 20px;
+    background: none;
+    width: 709px;
+    height: 220px;
+    gap: 70px;
+    opacity: 0px;
+    background: #FFFFFF;
+    background: linear-gradient(133.66deg, rgba(47, 72, 111, 0.62) 5.78%, rgba(11, 27, 52, 0.62) 96.58%);
+    
+}
+.temp{
+
+    background: transparent;
+    font-family: Inter;
+    font-size: 57px;
+    font-weight: 500;
+    justify-self: center;
+    text-align: center;
+    color: #FFFFFF;
+    gap: 0px;
+    opacity: 0px;
+    z-index: 1;
+    margin: 0;
+
+}
+.button{
+    color: white;
+    font-size: 18px;
+    background: transparent;
+    width: Hug (146px)px;
+    height: Hug (48px)px;
+    padding: 12px 40px 12px 40px;
+    gap: 14px;
+    border-radius: 50px;
+    opacity: 0px;
+
+}
+.buttons{
+    display: flex;
+    background: none;
+    flex-direction: row;
+    justify-content: center;
+    gap: 60px;
+
+}
+.icon{
+    background: none;
+
+    height: 100px;
+    width: 100px;
+    margin-bottom: 20px;
+}
+.weatherIcon{
+    background: none;
+    width: 5vw;
+
+}
+
+
+
+.tempCityCont{
+    padding-top: 40px;
+    display: flex;
+    background: none;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.iconsButtons{
+    padding: 30px 20px;
+    display: flex;
+    flex-direction: column;
+    background: none;
+    justify-content: center;
+}
+.city{
+    background: none;
+    color: white;
+    font-family: Inter;
+    font-size: 27px;
+    font-weight: 500;
+
+}
+.invisible{
+    display: none;
+}

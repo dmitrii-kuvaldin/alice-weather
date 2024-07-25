@@ -1,0 +1,13 @@
+*{
+  height: max-content;
+  box-sizing: border-box;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url('https://s3-alpha-sig.figma.com/img/8b93/6aad/1a8a9bb19893d9b0ef5acb10326ff9b1?Expires=1722816000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=B78oHqS9syYsMMN9WvgPMsL-t1ihXLhoao~UMw5LMr~tnqCRvFwO3ppDrmoc3JG10Vr247IFbTMj7ZMM8hEd8weL4KDpMzTMNJL5Lgasm5Hz87wOP65~84ciKtqi~W3kvmAjPoyqRQGhvBACr4SAT8eFoVb2mIrAecicDY4yYLeBB5TFjbbsRWSVvlPzrtZEJaeyytz3-H4krbwEwUwvR884gYGx5H9muy5d82o0E~Z3uHTaU49buFcVm9iPXaMDRhWKl-Sn5lF2CQar8BwCEmQzLpLgvPh5TqOPtrCZsYwJpmtkJjUhW3R-TlsPBdewb4FA8L9bczrHkWJyQ-N2nQ__');
+}
+.lesson-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
